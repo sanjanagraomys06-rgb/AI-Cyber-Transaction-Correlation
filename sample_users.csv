@@ -1,0 +1,7 @@
+UserID,CustomerName,AccountType,Branch,RiskProfile
+U001,Rahul Sharma,Savings,Bengaluru,Low
+U002,Priya Verma,Current,Mumbai,Medium
+U003,Amit Patel,Savings,Delhi,High
+U004,Neha Singh,Savings,Hyderabad,Low
+U005,Arjun Nair,Current,Chennai,High
+U006,Sneha Gupta,Savings,Kolkata,Medium
