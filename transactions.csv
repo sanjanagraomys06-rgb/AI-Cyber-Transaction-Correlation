@@ -1,0 +1,8 @@
+TransactionID,UserID,Amount,TransactionType,Location,Status
+TXN001,U001,5000,UPI,Bengaluru,Success
+TXN002,U002,25000,NEFT,Mumbai,Success
+TXN003,U003,80000,RTGS,Delhi,Flagged
+TXN004,U001,120000,Card,Chennai,Flagged
+TXN005,U004,1500,ATM,Hyderabad,Success
+TXN006,U005,95000,UPI,Pune,Flagged
+TXN007,U006,7000,Card,Kolkata,Success
